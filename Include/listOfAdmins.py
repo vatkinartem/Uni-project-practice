@@ -1,0 +1,1 @@
+idOfAdmins = [] #id - int that can be received via message.chat.id or message.from_user.id

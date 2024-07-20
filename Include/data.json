@@ -1,0 +1,11 @@
+{
+    "prepod": [
+        {
+            "fio": "Иванов Иван Иванович",
+            "mail": "example@mail.com",
+            "phone": "+709876543210",
+            "auditorium": "99-99",
+            "photo": "./prepod_Photo/professor_0.png"
+        }
+    ]
+}
